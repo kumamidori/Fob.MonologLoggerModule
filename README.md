@@ -1,6 +1,6 @@
-# Fob.AppLoggerModule
+# Fob.MonologLoggerModule
 
-Application Logger for BEAR.Sunday
+[Beta version] Monolog Application Logger for BEAR.Sunday
 
 ## Installation
 
@@ -14,6 +14,17 @@ todo
 
 todo
 
+## TODO
+
+- Test
+- CI
+
 ## Requires
 
 `>= PHP 7.2`
+
+## License
+
+These codes are licensed under CC0.
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
